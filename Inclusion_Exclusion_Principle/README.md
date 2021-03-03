@@ -9,3 +9,4 @@ Finally we find answer by adding c1 and c2 and subtracting c3 from sum of c1 and
 **Why do we subtract c3?**  
 This is because c3 has been counted twice thus we need to remove it for once to get required answer.  
 ## Output
+![image](https://github.com/ashwinjain10320/Algorithms_for_CP/blob/main/Inclusion_Exclusion_Principle/Inclusion_exclusion_principle.png)
